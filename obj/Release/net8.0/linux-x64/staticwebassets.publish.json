@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "u0avdeD8lf5s/SNvdpM3iL++ZOGXf3Rwj/A9uUhxq1k=",
+  "Source": "HostMonitor",
+  "BasePath": "_content/HostMonitor",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HostMonitor/wwwroot",
+      "Source": "HostMonitor",
+      "ContentRoot": "/home/james/HostMonitor/HostMonitor/wwwroot/",
+      "BasePath": "_content/HostMonitor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/james/HostMonitor/HostMonitor/wwwroot/index.html",
+      "SourceId": "HostMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/james/HostMonitor/HostMonitor/wwwroot/",
+      "BasePath": "_content/HostMonitor",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

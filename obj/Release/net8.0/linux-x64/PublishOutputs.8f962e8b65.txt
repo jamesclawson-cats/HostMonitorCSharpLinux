@@ -1,0 +1,15 @@
+/home/james/HostMonitor/HostMonitor/publish/HostMonitor
+/home/james/HostMonitor/HostMonitor/publish/appsettings.Development.json
+/home/james/HostMonitor/HostMonitor/publish/appsettings.json
+/home/james/HostMonitor/HostMonitor/publish/HostMonitor.dll
+/home/james/HostMonitor/HostMonitor/publish/HostMonitor.deps.json
+/home/james/HostMonitor/HostMonitor/publish/HostMonitor.runtimeconfig.json
+/home/james/HostMonitor/HostMonitor/publish/HostMonitor.pdb
+/home/james/HostMonitor/HostMonitor/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/james/HostMonitor/HostMonitor/publish/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/home/james/HostMonitor/HostMonitor/publish/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/james/HostMonitor/HostMonitor/publish/Microsoft.Extensions.Logging.Abstractions.dll
+/home/james/HostMonitor/HostMonitor/publish/Microsoft.Extensions.ObjectPool.dll
+/home/james/HostMonitor/HostMonitor/publish/Microsoft.Extensions.Options.dll
+/home/james/HostMonitor/HostMonitor/publish/Newtonsoft.Json.dll
+/home/james/HostMonitor/HostMonitor/publish/System.Net.WebSockets.WebSocketProtocol.dll
